@@ -12,7 +12,7 @@ public class CaseStudy1 {
 	else {
 		billingAmount = numberOfTickets*priceOfTicket;
 	}
-		System.out.println("Billing  "  + billingAmount );
+		System.out.println("Billing Amount "  + billingAmount );
 		
 	}
 
